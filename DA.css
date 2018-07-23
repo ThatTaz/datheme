@@ -468,7 +468,7 @@
 #friends .friends-table .friends-row .friends-suggestion-inner~.friends-column-actions .friends-action:nth-child(2) {  margin: 5px 0 0 0;}
 .theme-dark #friends .friends-table .friends-row .friends-column-actions .friends-action:hover {  background-color: hsla(122, 100%, 50%, 0.4);}
 #friends .friends-table .friends-row .friends-column-status .status.status-unknown {  border: none;}
-#friends .friends-table .friends-row .friends-column-actions .friends-action.friends-action-remove {  background-color: hsla(0, 83%, 45%, 0.5) !important;}
+#friends .friends-table .friends-row .friends-column-actions .friends-action.friends-action-remove {  background-color: hsla(225, 75%, 60%, 0.5) !important;}
 #friends .friends-table .friends-row .friends-column-actions .friends-action.friends-action-remove:hover {background-color: hsl(225, 75%, 60%) !important;}
 #friends .friends-table .friends-table-body {
   display: flex !important;
