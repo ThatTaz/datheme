@@ -4,8 +4,8 @@
 :root {
 	--text: #fff ;
     --round: 50%;
-    --color: hsla(240, 100%, 50%, 0.8);
-    --color2: hsla(0, 100%, 50%, 0.9) ;
+    --color: hsla(50, 70%, 60%, 0.8);
+    --color2: hsla(270, 70%, 60%, 0.8) ;
     --trans2: hsla(0, 0%, 0%, 0.8); 
 }
 
