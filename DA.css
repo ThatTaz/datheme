@@ -113,7 +113,7 @@
 .search-result,.tab-bar-item:hover {background: rgba(0, 0, 0, 0.2) !important;}
 
 .theme-dark .friends-table .messages .divider:not(.red) span, 
-.theme-dark .messages-wrapper .messages .divider:not(.red) span {color: hsla(50, 70%, 60%, 0.8)}
+.theme-dark .messages-wrapper .messages .divider:not(.red) span {color: hsla(45, 80%, 70%, 0.5)}
 .theme-dark .friends-table .messages .divider:not(.red) div, 
 .theme-dark .messages-wrapper .messages .divider:not(.red) div {background: var(--color)}
 
