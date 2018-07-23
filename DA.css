@@ -89,7 +89,7 @@
 .theme-dark .activityFeed-28jde9 {background: transparent !important}
 .emojiPicker-3m1S-j .scroller-3vODG7 .emojiItem-109bjA.selected-39BZ4S {background-color: rgba(0, 0, 0, 0);}
 .badge {border-radius:50%}
-.guilds-wrapper .guilds .friends-online {color: hsla(0, 100%, 50%, 0.7);font-size: 11px;font-weight: 700;}
+.guilds-wrapper .guilds .friends-online {color: hsla(50, 70%, 60%, 0.8);font-size: 11px;font-weight: 700;}
 .guilds-wrapper .guilds .guild .guild-inner { background: rgba(0, 0, 0, 0.4) !important}
 .guilds-wrapper .scroller-wrap {width:auto !important;}
 .guild-inner:hover,li.active .guild-inner {background-color: rgba(115,139,215,0.5) !important;}
@@ -113,17 +113,17 @@
 .search-result,.tab-bar-item:hover {background: rgba(0, 0, 0, 0.2) !important;}
 
 .theme-dark .friends-table .messages .divider:not(.red) span, 
-.theme-dark .messages-wrapper .messages .divider:not(.red) span {color: rgb(255, 0, 0)}
+.theme-dark .messages-wrapper .messages .divider:not(.red) span {color: hsla(50, 70%, 60%, 0.8)}
 .theme-dark .friends-table .messages .divider:not(.red) div, 
 .theme-dark .messages-wrapper .messages .divider:not(.red) div {background: var(--color)}
 
 .theme-dark .private-channels .channel.selected a{
-    background: rgba(255, 0, 0, 0.3);}
+    background: hsla(50, 70%, 60%, 0.8);}
 .private-channels .channel:hover a, .contentHoveredText-2D9B-x, 
 .contentHoveredVoice-3p_NEO,.contentSelectedText-3wUhMi, .contentSelectedVoice-1WDIBM {
-    background: rgba(255, 0, 0, 0.5);
+    background: hsla(50, 70%, 60%, 0.8);
     }
-.contentUnreadText-2vNnZc, .contentUnreadVoice-1dijOt {background: rgba(255, 0, 0, 0.2)}
+.contentUnreadText-2vNnZc, .contentUnreadVoice-1dijOt {background: hsla(50, 70%, 60%, 0.8)}
 
 #voice-connection {border-top: none;}
 #voice-connection .btn,
